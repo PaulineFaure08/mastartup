@@ -1,0 +1,76 @@
+.jumbotron{
+    /* Choisis la hauteur ici */
+    height: 500px;
+  
+    /* Tu lui donnes une image de background */
+    background-image: url("img/slider.jpg");
+  
+    /* Centre l'image et la met bien sur tous les écrans */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+.barrederecherche
+{
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    text-align: left;
+    height: 150px;
+    width: 20px;
+}
+.titre{
+    text-align: center;
+}
+.container{
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center; */
+
+}
+.section{
+    text-align: center;
+}
+.display-4
+{
+    font-family: 'Sen', sans-serif;  
+}
+.body{
+    font-family: 'Sen', sans-serif; 
+}
+.footer
+{
+    /* display: flex;
+    align-items: center;
+    justify-content : space-between  */
+}
+#experience
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+#BODY
+{
+    font-family: 'Sen', sans-serif; 
+}
+#application
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.carousel-item{
+    height: 300px;
+}
+.carousel-caption {
+    text-decoration: black;
+}
